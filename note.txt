@@ -1,0 +1,11 @@
+link and support head er vitore thakbe
+body er vitor website er content thakbe
+
+tag- jar shuru ase sesh nai.Ex- <head>
+element- jar shuru ase sesh ase content boshano jay.Ex- <head></head>
+attributr- additional value ba links. Ex- Name="value" lang="en"
+
+charset="UTF-8" jekono language support korar jonno
+UTF- Unicode transformation Format
+
+CDN- content delivery network
